@@ -1,0 +1,39 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+<form>
+Name: <input type="text">
+<br><br>
+Age: <input type"text">
+<br><br>
+Gender: <input type="radio" name="male" value="male"> Male
+<input type="radio" name="female" value="female"> Female
+<br><br>
+Birth Month <select>
+<option>January</option>
+<option>February</option>
+<option>March</option>
+<option>April</option>
+<option>May</option>
+<option>June</option>
+<option>July</option>
+<option>August</option>
+<option>September</option>
+<option>October</option>
+<option>November</option>
+<option>December</option>
+</select>
+<br><br>
+Options: <br>
+<input type="checkbox"> A <br>
+<input type="checkbox"> B <br>
+<input type="checkbox"> C <br>
+<br>
+Comments: <br>
+<textarea rows="4" cols="70"></textarea><br><br>
+<button type="button">Submit</button>
+<input type="reset">
+</form>
+</body>
+</html>
